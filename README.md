@@ -23,16 +23,10 @@
 Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. The absence of large datasets of __‘with_mask’__ images has made this task cumbersome and challenging. 
 
 ## PPT and Project Report sharing costs ₹1000 ($15)
-If interested, contact me at chandrikadeb7@gmail.com
+If interested, contact me at arpitmehtam@gmail.com
 
-# 🌟 [Purchase at a Discounted Rate](https://gum.co/GetFaceMask)
- 
+# 
 ## :hourglass: Project Demo
-:movie_camera: [YouTube Demo Link](https://youtu.be/wYwW7gAYyxw)
-
-:computer: [Dev Link](https://dev.to/chandrikadeb7/face-mask-detection-my-major-project-3fj3)
-
-[![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://face-mask--detection-app.herokuapp.com/)
 
 
 
@@ -142,7 +136,7 @@ $ streamlit run app.py
 
 ## :clap: And it's done!
 Feel free to mail me for any doubts/query 
-:email: chandrikadeb7@gmail.com
+:email: arpitmehtam@gmail.com
 
 ---
 
@@ -174,44 +168,9 @@ Feel free to mail me for any doubts/query
 
 ---
 
-## :trophy: Awards
-Awarded Runners Up position in [Amdocs Innovation India ICE Project Fair]( https://www.amdocs.com/)
-
-![](Readme_images/nn.jpeg)
-
-## :raising_hand: Cited by:
-
-1. https://osf.io/preprints/3gph4/
-2. https://link.springer.com/chapter/10.1007/978-981-33-4673-4_49
-3. https://ieeexplore.ieee.org/abstract/document/9312083/
-4. https://link.springer.com/chapter/10.1007/978-981-33-4673-4_48
-5. https://www.researchgate.net/profile/Akhyar_Ahmed/publication/344173985_Face_Mask_Detector/links/5f58c00ea6fdcc9879d8e6f7/Face-Mask-Detector.pdf
-
-## 👏 Appreciation
-
-### Selected in [Devscript Winter Of Code](https://devscript.tech/woc/)
-<img src="Readme_images/Devscript.jpeg" height=300 width=300>
-
-### Selected in [Script Winter Of Code](https://swoc.tech/project.html)
-<img src="Readme_images/winter.jpeg" height=300 width=300>
-
-### Seleted in [Student Code-in](https://scodein.tech/)
-<img src="Readme_images/sci.jpeg" height=300 width=300>
-
 ## :+1: Credits
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
-
-## :handshake: Contribution
-
-#### Please read the Contribution Guidelines [here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/CONTRIBUTING.md)
-Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
-
-## :handshake: Our Contributors
-
-<a href="https://github.com/chandrikadeb7/Face-Mask-Detection/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=chandrikadeb7/Face-Mask-Detection" />
-</a>
 
 
 ## :eyes: Code of Conduct
@@ -221,17 +180,13 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 ## :raising_hand: Citation
 
-You are allowed to cite any part of the code or our dataset. You can use it in your Research Work or Project. Remember to provide credit to the Maintainer Chandrika Deb by mentioning a link to this repository and her GitHub Profile.
-
 Follow this format:
-- Author's name - Chandrika Deb
+- Author's name - Arpit Mehta
 - Date of publication or update in parentheses.
 - Title or description of document.
 - URL.
 
 ## :heart: Owner
-Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/chandrikadeb7)
+Made with :heart:&nbsp;  by [Arpit Mehta](https://github.com/arpitmehta946)
 
-## :eyes: License
-MIT © [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/LICENSE)
 

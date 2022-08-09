@@ -66,7 +66,7 @@ All the dependencies and required libraries are included in the file <code>requi
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
+$ git clone https://github.com/arpitmehta946/Face-Mask-Detection.git
 ```
 
 2. Change your directory to the cloned repo 
